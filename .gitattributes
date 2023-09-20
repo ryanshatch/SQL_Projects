@@ -3,5 +3,3 @@
 text -s sql
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
-# *.docx linguist-language=txt
-# *.csv linguist-language=txt
