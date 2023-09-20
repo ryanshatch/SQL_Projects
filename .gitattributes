@@ -1,7 +1,7 @@
 # Auto detect text files and perform LF normalization
 # text=auto
-* text -s sql
+text -s sql
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
-*.docx linguist-language=txt
-*.csv linguist-language=txt
+# *.docx linguist-language=txt
+# *.csv linguist-language=txt
